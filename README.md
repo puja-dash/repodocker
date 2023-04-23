@@ -9,6 +9,7 @@
  #vim Dockerfile
  
 - Create index.html file in the repo
+ #vim index.html
 
 - Build the image from nginx
  #docker build -t "chikku27/nginx1.0" .
